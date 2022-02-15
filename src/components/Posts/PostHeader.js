@@ -12,7 +12,7 @@ const PostHeader = props => {
           alt='post header'
           className='post-thumb'
           src={thumbnailUrl}
-        />
+        /> 
       </div>
       <h2>{username}</h2>
     </div>
